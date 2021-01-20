@@ -109,6 +109,11 @@ private:
 	
 	void clearlistitem();
 	void deleteInfo();
+	void deleteInfo(int);
+	void deleteData(int);
+	void deleteInfo();
+	void deleteInfo(int);
+	void deleteData(int)
 	void deleteInfo(int, int, QString);
 	void deleteData(int, QString);
 
