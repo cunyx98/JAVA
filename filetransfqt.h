@@ -111,7 +111,9 @@ private:
 	void deleteInfo();
 	void deleteInfo(int);
 	void deleteData(int);
-
+	void deleteInfo();
+	void deleteInfo(int);
+	void deleteData(int)
 	QString getName(QString&);
 	int getRowOfFilename(string&, int, bool flag = true);
 	
